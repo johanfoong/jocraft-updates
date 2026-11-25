@@ -4,8 +4,8 @@
   "pub_date": "2026-11-24T16:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdldRY1VIWmY4VmxZd2ExUWtBWmdZZnlIeWs5dFhOZGljMGk3SjRZbmx6dHN2d1hORFM1cGNhMjEvSUFJRDVNZE9RQTVmMkFCMk9ZeWFHWlJkTFZGa1JwcXUzVm11b1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM4NjU4CWZpbGU6Sm9DcmFmdF8xLjAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEKanQyQ2VleXJtRjhyeTkyS2Z6VWkzRllqZGNyTnRlM2VUbzNFQk1PSktoU2hBakI0NGZrUE5OWmdpVmM2MTJqeHRya3d1dDhoNG9qSlR2WUZSRHZ0QVE9PQo=",
-      "url": "https://github.com/johanfoong/jocraft-updates/releases/download/v1.0.1/JoCraft_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdldRY1VIWmY4VnNlV0wreXhOdUhWL0VoQ2RpTWtMK3hkWTArZUZrUDU4MGN1dWhWSFBTdERCcFhKbXFCcGNnQkk4aWJ4Z0l1MDAvN3FFaXVPejl0SnBkUGxtZHM1d2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTgyNDAyCWZpbGU6Sm9DcmFmdF8xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKQzJXQjJ3VGdSV2c2ZjFwWklUenBKdUV0bU5sTzErMHdwUkRNUUlYczFnZ21RVGlhOUZpUko5bitlRENjSWJhWm1YWi91eEYxblM4N2QvSTNYcGJYQmc9PQo=",
+      "url": "https://github.com/johanfoong/jocraft-updates/releases/download/v1.0.2/JoCraft_1.0.2_x64-setup.exe"
     }
   }
 }
