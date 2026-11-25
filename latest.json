@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "notes": "Initial release of JoCraft Studio.",
   "pub_date": "2026-11-24T16:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdldRY1VIWmY4VmtTMlB6WHdxc1RYQVpzNzd6SElzY0Zlb2hVaHpxR2ZjVUlhelowMzJGQ243M0hibnl5QThjUk9RbVpIOE1wcXVoYWZsMVZUVXZ6OE41WldyTmZmckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTgzNTMzCWZpbGU6Sm9DcmFmdF8xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKVXd5OEJZWHRvT0hYWjV1VjBCRWI3WUxMaGhDK3hrVlR1YVpuUS9QWXp3RC9WT2lITDFTVm9rN2hndGVkb1ZBay9Oa09Jck9wT2FrQ2RRRmxJSWljQ0E9PQo=",
-      "url": "https://github.com/johanfoong/jocraft-updates/releases/download/v1.0.2/JoCraft_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdldRY1VIWmY4VmxHYnNIWDBKNDdGRnJvcDNpYXdjY3BkWEVvUm9FVzhUdGFrK0hRYmxCU0VCUTlEbmpPRm44WlpBKzhMenBZM0tuRUl4dnV1eE1YbnNCSTJjWm83YWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTg2MjkzCWZpbGU6Sm9DcmFmdF8xLjAuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMKd3VBL0ZCUGtuRG94a1R2UlJKYWFBdnRMNUZUU1VRQnkxVThtd2RyZW9lMDJEbGo0MkZGZ3NrQ1RPTS85L1UyRGdhYzJWd29qNGV2VldYOHB3Sk1BREE9PQo=",
+      "url": "https://github.com/johanfoong/jocraft-updates/releases/download/v1.0.3/JoCraft_1.0.3_x64-setup.exe"
     }
   }
 }
